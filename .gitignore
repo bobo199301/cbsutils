@@ -1,0 +1,15 @@
+/node_modules
+/static/cms/node_modules
+/bower_components
+npm-debug.log
+
+# For OS generated
+.DS_Store
+.DS_Store?
+.idea
+/pro.sh
+/Dockerfile
+.vscode/
+logs/*
+
+.eslintrc

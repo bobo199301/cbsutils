@@ -1,0 +1,14 @@
+{
+  "name": "cbsutils",
+  "version": "0.0.1",
+  "private": false,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "joi": "^14.3.1",
+    "request": "^2.88.0",
+    "util": "^0.11.1"
+  },
+  "devDependencies": {}
+}
